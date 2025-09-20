@@ -10,9 +10,9 @@ graduation_semester = "May 2029"
 major = "Computer Science"
 
 # 2. Academic Data
-current_courses = ["COMP 163", "MATH 150", "ENG 101", "HIS 105"]
-completed_courses = ["Biology", "Chemistry", "Calculus", "Spanish II", "World History"]
-credit_hours_list = [3, 3, 3, 3]                       
+current_courses = ["COMP 163", "MATH 110", "ENG 101", "AFAM 105", "College Sucess", "GEEN 111"]
+completed_courses = ["Biology", "Chemistry", "Calculus", "Spanish IIII", "American History"]
+credit_hours_list = [3, 3, 2, 2, 1, 3]                       
 gpa_history = [3.2, 3.6, 3.4, 3.7]    
 
 # 3. Contact Information
