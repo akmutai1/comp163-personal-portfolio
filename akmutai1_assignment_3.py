@@ -3,10 +3,10 @@
 # ==============================
 
 # 1. Personal Information
-full_name = "Jordan Smith"
-student_email = "jsmith@ncat.edu"
-hometown = "Charlotte, NC"
-graduation_semester = "Spring 2028"
+full_name = "Adams Mutai"
+student_email = "akmutai1@ncat.edu"
+hometown = "Winston-Salem, NC"
+graduation_semester = "May 2029"
 major = "Computer Science"
 
 # 2. Academic Data
