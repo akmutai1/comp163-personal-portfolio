@@ -65,9 +65,9 @@ study_hours_per_subject = {
 }
 
 contact_directory = {
-    "Mom": "704-555-0199",
-    "Roommate": "336-555-7821",
-    "Academic Advisor": "336-334-5000"
+    "Mom": "336-555-0199",
+    "Roommate": "336-443-5353",
+    "Academic Advisor": "336-938-2948"
 }
 
 
