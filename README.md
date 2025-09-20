@@ -18,7 +18,10 @@ It uses Python structures like lists, sets, dictionaries, and tuples to store da
 - Adds up study hours and compares them to class credits.  
 - Shows totals for classes, skills, contacts, and social media.  
 - Outputs all information in a portfolio style layout.  
+## Documentation
+- Used Ai in setting up SSH key in order to push commits as I was operating under two github accounts.
 
 ## How to Run
 ```bash
 python akmutai1_assignment_3.py
+
