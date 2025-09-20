@@ -22,11 +22,11 @@ instagram_info = ("Instagram", "@jordan_codes", 312)
 twitter_info = ("Twitter", "@jordandev", 127)
 
 # 4. Interest Tracking
-current_skills_set = {"Python basics", "HTML", "Problem solving", "Time management", "Photography"}
-skills_to_learn_set = {"JavaScript", "Data structures", "Git", "Web design", "Public speaking"}
-career_interests_set = {"Software development", "Web development", "Data science", "Game development"}
-hobbies_set = {"Gaming", "Photography", "Reading", "Soccer", "Music"}
-entertainment_backlog_set = {"One Piece", "Barry", "Life", "Incantation", "Memento"}
+current_skills_set = {"Python basics", "HTML", "Problem solving", "Time management", "Critical thinking"}
+skills_to_learn_set = {"JavaScript", "Data structures", "Git", "Web design", "APIs"}
+career_interests_set = {"Software development", "Web development", "Leetcode", "Game development"}
+hobbies_set = {"Gaming", "Golf", "Reading", "Running", "Art"}
+entertainment_backlog_set = {"Breaking Bad", "Flash", "Naruto", "Interstellar", "Inception"}
 
 # 5. Organizational Mapping
 course_credits = {
