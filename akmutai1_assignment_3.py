@@ -51,10 +51,10 @@ course_rooms = {
 }
 
 monthly_budget = {
-    "Food": 450,
-    "Entertainment": 200,
-    "Books": 125,
-    "Transportation": 100
+    "Food": 250,
+    "Entertainment": 50,
+    "Books": 110,
+    "Transportation": 350
 }
 
 study_hours_per_subject = {
